@@ -1,0 +1,9 @@
+img { width: 30%;
+    height: 30%;
+    border-radius: 10%;
+}
+body {background-color: rgb(0, 0, 51);}
+h1 {color: yellow;
+text-align: center ;}
+h2 {color: red;
+text-align: center;}
